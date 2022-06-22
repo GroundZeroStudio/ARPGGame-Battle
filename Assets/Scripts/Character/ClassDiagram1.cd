@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CharacterAnimationParameter">
+    <Position X="11.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Character\CharacterAnimationParameter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARPG.Character.CharacterInputController">
+    <Position X="1.75" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAgABAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAACMA=</HashCode>
+      <FileName>Assets\Scripts\Character\CharacterInputController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARPG.Character.CharacterMotor">
+    <Position X="5" Y="1.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAQBAAAABABAAAAAAAAAAQAAEA=</HashCode>
+      <FileName>Assets\Scripts\Character\CharacterMotor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStatus">
+    <Position X="8.75" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character\PlayerStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
